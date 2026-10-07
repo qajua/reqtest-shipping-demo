@@ -7,6 +7,7 @@ generated tests, and sandbox execution are real operations.
 - Production code: `shipping.py`
 - Requirement document: [`docs/SRS.md`](docs/SRS.md)
 - Runtime: Python 3.11+, without third-party production dependencies
+- Recorded live validation: [`docs/DEMO_RESULTS.md`](docs/DEMO_RESULTS.md)
 
 ## Use with ReqTest
 
